@@ -40,7 +40,7 @@ The program consists of the following functions:
 
 ## Example
 
-```sh
+
 Employee Management System
 1. Add Employee
 2. View Employees
